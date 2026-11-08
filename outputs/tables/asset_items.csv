@@ -1,0 +1,12 @@
+item,dhs_variable,yes,no,missing,weighted % owning
+radio,hv207,2869,10917,0,19.8
+television,hv208,5902,7884,0,48.7
+refrigerator,hv209,2779,11007,0,26.6
+bicycle,hv210,4296,9490,0,36.9
+motorcycle,hv211,3074,10712,0,27.9
+car/truck/tractor,hv212,550,13236,0,5.0
+landline,hv221,353,13433,0,3.8
+mobile phone,hv243a,13127,659,0,95.8
+watch,hv243b,7534,6252,0,57.0
+computer,hv243e,1342,12444,0,13.6
+bank account,hv247,10495,3291,0,78.6

@@ -1,0 +1,7 @@
+,region_type,condition,joint_chi2,joint_df,joint_p,top,second,top_minus_second,top_minus_second_se,top_minus_second_p
+0,province,Clean cooking fuel,42.6146,6,0.0,Bagmati,Gandaki,21.4609,9.3111,0.0212
+1,province,Finished floor,8.9443,6,0.1767,Gandaki,Bagmati,0.5097,8.843,0.954
+2,province,Finished walls,9.6972,6,0.138,Bagmati,Karnali,3.0148,10.1107,0.7656
+3,eco_zone,Clean cooking fuel,24.1223,2,0.0,Hill,Terai,29.1972,6.026,0.0
+4,eco_zone,Finished floor,12.4599,2,0.002,Hill,Terai,19.4072,5.9725,0.0012
+5,eco_zone,Finished walls,16.3025,2,0.0003,Hill,Terai,22.989,5.8335,0.0001

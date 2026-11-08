@@ -1,0 +1,18 @@
+province,eco_zone,rural n,urban n
+bagmati province,hill,721,1048
+bagmati province,mountain,261,61
+bagmati province,terai,31,144
+gandaki province,hill,779,791
+gandaki province,mountain,28,0
+gandaki province,terai,90,117
+karnali province,hill,580,751
+karnali province,mountain,304,118
+koshi province,hill,502,291
+koshi province,mountain,114,58
+koshi province,terai,445,744
+lumbini province,hill,428,172
+lumbini province,terai,551,843
+madhesh province,terai,909,1135
+sudurpashchim province,hill,413,217
+sudurpashchim province,mountain,231,90
+sudurpashchim province,terai,204,615

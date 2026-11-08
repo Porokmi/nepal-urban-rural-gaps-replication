@@ -1,0 +1,12 @@
+,dhs_variable,loading,loading (weighted PCA)
+radio,hv207,0.099,0.124
+bicycle,hv210,0.138,0.07
+mobile phone,hv243a,0.179,0.179
+car/truck/tractor,hv212,0.23,0.227
+landline,hv221,0.267,0.283
+bank account,hv247,0.278,0.278
+watch,hv243b,0.285,0.305
+computer,hv243e,0.376,0.383
+television,hv208,0.393,0.384
+motorcycle,hv211,0.415,0.403
+refrigerator,hv209,0.434,0.435

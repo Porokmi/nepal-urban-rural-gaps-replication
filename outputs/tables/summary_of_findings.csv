@@ -1,0 +1,10 @@
+finding,evidence,figure
+Weighting matters,urban share 52.2% sample vs 67.1% weighted,Fig 1
+Basic services near-universal,"electricity 96.4%, improved water 98.0%",Fig 4
+Largest raw gaps,"clean fuel 35.7, floor 32.6, walls 28.7 pts",Fig 4
+Gaps after adjustment,"clean fuel 17.8, floor 15.1, walls 13.3 pts",Fig 8
+Wealth measure matters,HMCI: 0.53 -> 0.08 (DHS wealth) vs 0.36 (asset groups),Fig 7
+Profiles,basic services and living conditions met: 2.9% to 69.0% across asset groups,Fig 6
+Regional variation,clean-fuel gap 12-61 pts across provinces,Fig 9
+Robust,"same result across weighting, PCA and material lists",Figs 10-11
+Migration (supplementary),no association detected at district level,Figs 12-13

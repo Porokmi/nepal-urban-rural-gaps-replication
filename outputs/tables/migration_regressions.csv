@@ -1,0 +1,13 @@
+,outcome,controls,migration,migration_se,migration_p,urban_x_migration,urban_x_migration_se,urban_x_migration_p
+0,BSI,geography,0.0499,0.0333,0.1338,0.0074,0.0339,0.8282
+1,BSI,assets + head,0.0214,0.026,0.4092,0.0087,0.0301,0.7725
+2,CWI,geography,0.0323,0.0471,0.4925,0.0043,0.0497,0.9309
+3,CWI,assets + head,-0.0042,0.035,0.9039,0.0058,0.0364,0.8731
+4,HMCI_dhs,geography,0.1054,0.0902,0.2427,0.0074,0.0901,0.9342
+5,HMCI_dhs,assets + head,0.0346,0.0696,0.6196,0.0078,0.0675,0.9085
+6,clean_fuel,geography,2.0472,4.1523,0.622,-2.4904,4.2334,0.5564
+7,clean_fuel,assets + head,-0.7555,3.0348,0.8034,-2.4408,2.9059,0.4009
+8,floor_dhs,geography,2.7461,3.8897,0.4802,3.1113,4.0019,0.4369
+9,floor_dhs,assets + head,-0.0626,2.9885,0.9833,3.1833,3.0258,0.2928
+10,wall_dhs,geography,-0.9103,3.9064,0.8157,1.0867,4.071,0.7895
+11,wall_dhs,assets + head,-3.3423,3.2963,0.3106,1.141,3.3486,0.7333

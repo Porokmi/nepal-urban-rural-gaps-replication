@@ -1,0 +1,16 @@
+,outcome,index,N,urban_coef,se,p
+0,BSI,A: 11 assets,13757,-0.0194,0.0208,0.3519
+1,BSI,B: + housing materials,13757,-0.0368,0.0209,0.0774
+2,BSI,C: + services and cooking,13757,-0.0596,0.0189,0.0016
+3,BSI,D: + all nine outcome items,13757,-0.0702,0.0194,0.0003
+4,BSI,DHS wealth index (reference),13757,-0.0443,0.022,0.0438
+5,CWI,A: 11 assets,13714,0.245,0.0309,0.0
+6,CWI,B: + housing materials,13714,0.1821,0.0265,0.0
+7,CWI,C: + services and cooking,13714,0.1567,0.0242,0.0
+8,CWI,D: + all nine outcome items,13714,0.1119,0.0221,0.0
+9,CWI,DHS wealth index (reference),13714,0.0814,0.0239,0.0007
+10,HMCI_dhs,A: 11 assets,13721,0.3568,0.0471,0.0
+11,HMCI_dhs,B: + housing materials,13721,0.1224,0.0265,0.0
+12,HMCI_dhs,C: + services and cooking,13721,0.2788,0.0414,0.0
+13,HMCI_dhs,D: + all nine outcome items,13721,0.0705,0.0247,0.0043
+14,HMCI_dhs,DHS wealth index (reference),13721,0.0796,0.0349,0.0226

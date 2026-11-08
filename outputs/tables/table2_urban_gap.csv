@@ -1,0 +1,16 @@
+,outcome,specification,N,urban_coef,se,p
+0,BSI,(1) Province + zone,13757,0.0551,0.0218,0.0114
+1,BSI,(2) + DHS wealth index,13757,-0.0443,0.022,0.0438
+2,BSI,(3) + asset groups,13757,-0.0194,0.0208,0.3519
+3,BSI,(4) + asset score,13757,-0.0265,0.0214,0.2152
+4,BSI,(5) + asset groups + head,13757,-0.0049,0.0198,0.8044
+5,CWI,(1) Province + zone,13714,0.347,0.0357,0.0
+6,CWI,(2) + DHS wealth index,13714,0.0814,0.0239,0.0007
+7,CWI,(3) + asset groups,13714,0.245,0.0309,0.0
+8,CWI,(4) + asset score,13714,0.2372,0.0312,0.0
+9,CWI,(5) + asset groups + head,13714,0.2202,0.0296,0.0
+10,HMCI_dhs,(1) Province + zone,13721,0.5278,0.0565,0.0
+11,HMCI_dhs,(2) + DHS wealth index,13721,0.0796,0.0349,0.0226
+12,HMCI_dhs,(3) + asset groups,13721,0.3568,0.0471,0.0
+13,HMCI_dhs,(4) + asset score,13721,0.3484,0.0481,0.0
+14,HMCI_dhs,(5) + asset groups + head,13721,0.3242,0.0451,0.0

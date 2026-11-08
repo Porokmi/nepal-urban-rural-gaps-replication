@@ -1,0 +1,10 @@
+,eco_zone,condition,gap,se,low,high,p,households,urban_clusters,rural_clusters
+0,Hill,Clean cooking fuel,49.944,4.406,41.31,58.579,0.0,6680,114,119
+1,Hill,Finished floor,43.169,4.297,34.747,51.592,0.0,6690,114,119
+2,Hill,Finished walls,39.017,4.368,30.456,47.578,0.0,6689,114,119
+3,Mountain,Clean cooking fuel,19.544,18.395,-16.51,55.599,0.288,1263,11,33
+4,Mountain,Finished floor,7.002,18.923,-30.086,44.091,0.711,1264,11,33
+5,Mountain,Finished walls,11.256,16.886,-21.841,44.352,0.505,1264,11,33
+6,Terai,Clean cooking fuel,20.747,4.122,12.669,28.826,0.0,5803,123,76
+7,Terai,Finished floor,23.762,4.158,15.612,31.912,0.0,5824,123,76
+8,Terai,Finished walls,16.028,3.877,8.429,23.627,0.0,5822,123,76

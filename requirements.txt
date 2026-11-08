@@ -1,0 +1,15 @@
+ipykernel==7.4.0
+ipython==9.18.0
+matplotlib==3.11.2
+numpy==2.4.6
+pandas==3.1.0
+patsy==1.0.3
+statsmodels==0.15.0
+# paper assembly (paper/build_paper.py)
+pypandoc_binary
+python-docx
+docx2pdf
+pillow
+# rendered HTML version (tools/make_replication_package.py)
+jupytext
+nbconvert

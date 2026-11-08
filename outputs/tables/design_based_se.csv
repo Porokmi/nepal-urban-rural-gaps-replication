@@ -1,0 +1,7 @@
+,outcome,urban_coef,se_psu_clustered,se_design_strata,p_design
+0,BSI,-0.0049,0.0198,0.0197,0.8034
+1,CWI,0.2202,0.0296,0.0297,0.0
+2,HMCI_dhs,0.3242,0.0451,0.0453,0.0
+3,clean_fuel,17.8165,2.1051,2.0602,0.0
+4,floor_dhs,15.0968,2.0659,2.0755,0.0
+5,wall_dhs,13.2531,2.1402,2.1548,0.0
