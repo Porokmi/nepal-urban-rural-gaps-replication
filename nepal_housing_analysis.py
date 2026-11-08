@@ -8,10 +8,6 @@
 # **Figure numbers** in this script differ from the paper's (the paper numbers figures in order of
 # first mention).
 #
-# **How to use (VS Code):** click *Run Cell* above each `# %%` block, or *Run All*.
-# Tables and charts appear next to the code. Every table is saved to `outputs/tables/`
-# and every chart to `outputs/figures/`. Each step ends with a printed **Finding**.
-#
 # **Conventions**
 # - Percentages use the DHS household weight (`hv005 / 1,000,000`) and describe households.
 # - Regressions: weighted least squares, standard errors clustered by survey cluster (`hv021`).
