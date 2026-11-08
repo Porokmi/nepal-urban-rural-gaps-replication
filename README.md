@@ -2,7 +2,9 @@
 
 Code and aggregate results for the working paper *Urban–Rural Gaps in Household Living Conditions
 in Nepal: Evidence from the 2022 Nepal Demographic and Health Survey* (Porokmi Sambahamphe,
-November 2026). The paper is in [`paper/`](paper/nepal_housing_working_paper.pdf).
+November 2026).
+
+**[Read the working paper (PDF)](outputs/paper/nepal_housing_working_paper.pdf)**
 
 **No survey microdata are included.** The NDHS 2022 data may not be redistributed; you need your
 own access from The DHS Program (instructions below).
@@ -15,7 +17,7 @@ own access from The DHS Program (instructions below).
 | `outputs/tables/` | Every table the script produces (CSV, aggregate results only). |
 | `outputs/figures/` | Every chart (PNG). Figure numbers in file names follow the script, not the paper. |
 | `data_external/` | Census 2021 district absentee counts (Annex 5 of NSO, *Internal Migration in Nepal*, 2025), transcribed and checked against the published national total. |
-| `paper/` | The working paper (PDF). |
+| `outputs/paper/` | The working paper (PDF). |
 
 ## How to reproduce
 1. **Get the data.** Register at [dhsprogram.com](https://dhsprogram.com/data/new-user-registration.cfm),
@@ -27,7 +29,7 @@ own access from The DHS Program (instructions below).
    ./.venv/bin/pip install -r requirements.txt
    ```
 3. **Run.** `MPLBACKEND=Agg ./.venv/bin/python nepal_housing_analysis.py` (about 5–10 minutes,
-   mostly bootstrap resamples). It recreates everything in `outputs/`. Or open the script in VS Code
+   mostly bootstrap resamples). It recreates the analysis tables and figures in `outputs/`. Or open the script in VS Code
    and run the cells one at a time.
 
 ## Main methods
@@ -38,7 +40,10 @@ index from the first principal component of eleven items that do not enter the o
 comparisons. Details and every result are in the HTML file.
 
 ## Use of AI tools
-Claude (Anthropic) and ChatGPT (OpenAI)assisted with writing and checking this code. 
+Claude (Anthropic) and ChatGPT (OpenAI) assisted with writing and checking this code.
+
+## Suggested citation
+Sambahamphe, Porokmi. 2026. “Urban–Rural Gaps in Household Living Conditions in Nepal: Evidence from the 2022 Nepal Demographic and Health Survey.” Working paper, November. [PDF](outputs/paper/nepal_housing_working_paper.pdf).
+
 ## Contact and license
-Porokmi Sambahamphe, psambahamphe@fordham.edu. Code: MIT License. The paper is © the author;
-please do not cite without permission.
+Porokmi Sambahamphe, psambahamphe@fordham.edu. The code is licensed under the MIT License. The paper is © the author.
