@@ -38,10 +38,7 @@ index from the first principal component of eleven items that do not enter the o
 comparisons. Details and every result are in the HTML file.
 
 ## Use of AI tools
-Claude (Anthropic) assisted with writing and checking this code and with checking reported results;
-Claude and ChatGPT (OpenAI) assisted with outlining, drafting and editing the paper. The author
-reviewed all analysis and text and is responsible for the content.
-
+Claude (Anthropic) and ChatGPT (OpenAI)assisted with writing and checking this code. 
 ## Contact and license
 Porokmi Sambahamphe, psambahamphe@fordham.edu. Code: MIT License. The paper is © the author;
 please do not cite without permission.
