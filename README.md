@@ -46,4 +46,4 @@ Claude (Anthropic) and ChatGPT (OpenAI) assisted with writing and checking this 
 Sambahamphe, Porokmi. 2026. “Urban–Rural Gaps in Household Living Conditions in Nepal: Evidence from the 2022 Nepal Demographic and Health Survey.” Working paper, November. [PDF](outputs/paper/nepal_housing_working_paper.pdf).
 
 ## Contact and license
-Porokmi Sambahamphe, psambahamphe@fordham.edu. The code is licensed under the MIT License. The paper is © the author.
+Porokmi Sambahamphe, psambahamphe@fordham.edu, ORCID [0009-0005-9446-7676](https://orcid.org/0009-0005-9446-7676). The code is licensed under the MIT License. The paper is © the author.
