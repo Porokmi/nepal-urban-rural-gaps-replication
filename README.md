@@ -42,7 +42,6 @@ Claude (Anthropic) assisted with writing and checking this code and with checkin
 Claude and ChatGPT (OpenAI) assisted with outlining, drafting and editing the paper. The author
 reviewed all analysis and text and is responsible for the content.
 
-## Contact and reuse
-Porokmi Sambahamphe, psambahamphe@fordham.edu. The code is shared so the results can be checked;
-please contact the author before reusing it. The paper is © the author; please do not cite without
-permission.
+## Contact and license
+Porokmi Sambahamphe, psambahamphe@fordham.edu. Code: MIT License. The paper is © the author;
+please do not cite without permission.
