@@ -4,7 +4,7 @@ Code and aggregate results for the working paper *Urban–Rural Gaps in Househol
 in Nepal: Evidence from the 2022 Nepal Demographic and Health Survey* (Porokmi Sambahamphe,
 November 2026).
 
-**[Read the working paper (PDF)](outputs/paper/nepal_housing_working_paper.pdf)**
+**[Read the working paper (PDF)](outputs/paper/nepal_housing_working_paper.pdf)** · Preprint on SocArXiv: [doi.org/10.31235/osf.io/j7zwv_v1](https://doi.org/10.31235/osf.io/j7zwv_v1)
 
 **No survey microdata are included.** The NDHS 2022 data may not be redistributed; you need your
 own access from The DHS Program (instructions below).
@@ -43,7 +43,7 @@ comparisons. Details and every result are in the HTML file.
 Claude (Anthropic) and ChatGPT (OpenAI) assisted with writing and checking this code.
 
 ## Suggested citation
-Sambahamphe, Porokmi. 2026. “Urban–Rural Gaps in Household Living Conditions in Nepal: Evidence from the 2022 Nepal Demographic and Health Survey.” Working paper, November. [PDF](outputs/paper/nepal_housing_working_paper.pdf).
+Sambahamphe, Porokmi. 2026. “Urban–Rural Gaps in Household Living Conditions in Nepal: Evidence from the 2022 Nepal Demographic and Health Survey.” SocArXiv preprint, November. https://doi.org/10.31235/osf.io/j7zwv_v1
 
 ## Contact and license
 Porokmi Sambahamphe, psambahamphe@fordham.edu, ORCID [0009-0005-9446-7676](https://orcid.org/0009-0005-9446-7676). The code is licensed under the MIT License. The paper is © the author.
